@@ -13,5 +13,5 @@ TCM seasonal wellness, localized for global English users — live by your body 
 - [Winter Wellness in TCM: Kidney Health and Storing Energy](https://seasonsvip.com/blog/winter-wellness-tcm)
 - [Winter Kidney Tonification Foods: TCM Nutrition Guide](https://seasonsvip.com/blog/winter-kidney-tonification-foods-tcm-guide)
 - [White Peony Root: Natural Relief for Pain and Inflammation in TCM](https://seasonsvip.com/blog/white-peony-root-pain-inflammation-relief)
-- [Understanding TCM Tongue Diagnosis: A Modern Guide](https://seasonsvip.com/blog/understanding-tcm-tongue-diagnosis-modern-guide)
+- [Welcome to SEASONS — Free Trial Started!](https://seasonsvip.com/blog/welcome)
 <!-- BLOG:END -->
