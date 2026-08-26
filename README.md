@@ -9,9 +9,9 @@ TCM seasonal wellness, localized for global English users — live by your body 
 <!-- BLOG:START -->
 ## Latest from the blog
 
-- [SEASONS Blog - 997 TCM Wellness Articles](https://seasonsvip.com/blog/index)
-- [Acupressure for Back Pain: 7 Points for Instant Relief](https://seasonsvip.com/blog/acupressure-back-pain)
-- [20 Acupressure Points for Digestive Health: Complete Guide](https://seasonsvip.com/blog/acupressure-digestive-health-20-points)
-- [Acupressure for Digital Eye Strain: 5 Points for Screen Warriors](https://seasonsvip.com/blog/acupressure-digital-eye-strain-screen-warriors)
-- [Natural Face Lift: Acupressure Points for Youthful Skin](https://seasonsvip.com/blog/acupressure-face-lift)
+- [Yin Yang Foods Chart: Complete Guide to Balancing Your Diet](https://seasonsvip.com/blog/yin-yang-foods-chart)
+- [Winter Wellness in TCM: Kidney Health and Storing Energy](https://seasonsvip.com/blog/winter-wellness-tcm)
+- [Winter Kidney Tonification Foods: TCM Nutrition Guide](https://seasonsvip.com/blog/winter-kidney-tonification-foods-tcm-guide)
+- [White Peony Root: Natural Relief for Pain and Inflammation in TCM](https://seasonsvip.com/blog/white-peony-root-pain-inflammation-relief)
+- [Welcome to SEASONS — Free Trial Started!](https://seasonsvip.com/blog/welcome)
 <!-- BLOG:END -->
