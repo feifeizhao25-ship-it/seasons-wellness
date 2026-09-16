@@ -9,9 +9,9 @@ TCM seasonal wellness, localized for global English users — live by your body 
 <!-- BLOG:START -->
 ## Latest from the blog
 
-- [SEASONS Blog - 1008 TCM Wellness Articles](https://seasonsvip.com/blog/index)
-- [Acupressure for Back Pain: 7 Points for Instant Relief](https://seasonsvip.com/blog/acupressure-back-pain)
-- [Acupressure for Cold Hands and Feet: Warming Points That Restore Circulation](https://seasonsvip.com/blog/acupressure-cold-hands-feet-circulation)
-- [20 Acupressure Points for Digestive Health: Complete Guide](https://seasonsvip.com/blog/acupressure-digestive-health-20-points)
-- [Acupressure for Digital Eye Strain: 5 Points for Screen Warriors](https://seasonsvip.com/blog/acupressure-digital-eye-strain-screen-warriors)
+- [SEASONS Wellness Blog - 1016 TCM Articles & Guides](https://seasonsvip.com/blog/index.html)
+- [404](https://seasonsvip.com/blog/404)
+- [About](https://seasonsvip.com/blog/about)
+- [Acupressure Anxiety Relief](https://seasonsvip.com/blog/acupressure-anxiety-relief)
+- [Acupressure Complete Guide](https://seasonsvip.com/blog/acupressure-complete-guide)
 <!-- BLOG:END -->
