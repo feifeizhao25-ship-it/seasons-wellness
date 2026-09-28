@@ -9,7 +9,7 @@ TCM seasonal wellness, localized for global English users — live by your body 
 <!-- BLOG:START -->
 ## Latest from the blog
 
-- [SEASONS Wellness Blog - 1017 TCM Articles & Guides](https://seasonsvip.com/blog/index.html)
+- [SEASONS Wellness Blog - 1018 TCM Articles & Guides](https://seasonsvip.com/blog/index.html)
 - [404](https://seasonsvip.com/blog/404)
 - [About](https://seasonsvip.com/blog/about)
 - [Acupressure Anxiety Relief](https://seasonsvip.com/blog/acupressure-anxiety-relief)
